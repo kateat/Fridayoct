@@ -31,7 +31,7 @@ combines the 100,000 questions in SQuAD1.1 with over 50,000 unanswerable questio
 _URL = "https://rajpurkar.github.io/SQuAD-explorer/dataset/"
 _URLS = {
     "train": 
-    "dev": "https://huggingface.co/datasets/Kateway/Thursday/blob/main/dev-v2.0.json",
+    "dev": "https://huggingface.co/datasets/Kateway/Fridayoct/dev-v2.0.json",
 }
 
 
